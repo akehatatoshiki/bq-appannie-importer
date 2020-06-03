@@ -1,0 +1,182 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "app",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "app_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "app_package_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "market",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "market_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "device",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "device_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "publisher",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "publisher_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "company",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "company_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "company_hq",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "company_hq_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "parent_company",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "parent_company_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "app_category",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "app_category_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "unified_app",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "unified_app_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "vertical",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "vertical_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "device_1",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "device_name_1",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "start_date",
+    "type": "DATE"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "end_date",
+    "type": "DATE"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "usage_penetration",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "active_users",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "install_penetration",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "install_base",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "open_rate",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "share_of_users",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "share_of_installs",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "avg_sessions_user",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "avg_session_duration",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "avg_time_user",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "total_time",
+    "type": "INTEGER"
+  }
+]
